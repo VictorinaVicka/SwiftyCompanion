@@ -7,4 +7,5 @@
 - Используется SwiftUI
 - MVC
 
-![](https://github.com/VictorinaVicka/SwiftyCompanion/raw/master/review/review.gif)
+![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/master/review/review.gif)
+
