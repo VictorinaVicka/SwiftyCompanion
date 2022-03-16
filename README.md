@@ -9,4 +9,4 @@
 
 ![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/master/review/review.gif)
 
-![](https://github.com/VictorinaVicka/SwiftyCompanion/raw/main/review/review.gif) 
+![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/main/review/review.gif) 
