@@ -8,5 +8,3 @@
 - MVC 
 
 ![](https://github.com/VictorinaVicka/SwiftyCompanion/blob/main/review/review.gif)
-
-![img](https://github.com/VictorinaVicka/SwiftyCompanion/blob/main/review/review.gif)
