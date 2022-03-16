@@ -11,4 +11,6 @@
 
 ![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/master/review/review.gif)
 
+![img](https://github.com/VictorinaVicka/SwiftyCompanion/tree/main/review/review.gif)
 
+![img](https://github.com/VictorinaVicka/SwiftyCompanion/blob/main/review/review.gif)
