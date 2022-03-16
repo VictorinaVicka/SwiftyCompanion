@@ -14,3 +14,5 @@
 ![img](https://github.com/VictorinaVicka/SwiftyCompanion/tree/main/review/review.gif)
 
 ![img](https://github.com/VictorinaVicka/SwiftyCompanion/blob/main/review/review.gif)
+
+<img src=""https://github.com/VictorinaVicka/SwiftyCompanion/raw/main/review/review.gif" height="32"/></h1>
