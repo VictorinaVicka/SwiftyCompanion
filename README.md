@@ -5,8 +5,10 @@
 
 - Не используется StoryBoard 
 - Используется SwiftUI
-- MVC
+- MVC 
+
+### ![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/main/review/review.gif) 
 
 ![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/master/review/review.gif)
 
-![hippo](https://github.com/VictorinaVicka/SwiftyCompanion/raw/main/review/review.gif) 
+
